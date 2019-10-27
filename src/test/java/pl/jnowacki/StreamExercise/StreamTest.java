@@ -26,7 +26,7 @@ public class StreamTest {
         System.out.println(inter.doSth(3, 5, 1, 6, 7));
     }
     public void writeFunc(MyFuncInter inter) {
-        System.out.println(inter.doSth(3, 5, 1, 6, 7));
+        System.out.println(inter.doSth(3, 5, 1, 6, 4));
     }
 
 
